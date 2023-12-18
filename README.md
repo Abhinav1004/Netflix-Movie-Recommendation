@@ -1,4 +1,7 @@
+
 # Netflix Movie Recommendation 
+
+<img src='images/netflix-q.jpg'>
 
 Netflix held the Netflix Prize open competition for the best algorithm to predict user ratings for films. The grand prize was $1,000,000 and here we used multiple collaborative recommendation approaches to recommend Netflix Movie Recommendation
 
