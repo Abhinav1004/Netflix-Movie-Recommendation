@@ -11,8 +11,6 @@ Netflix held the Netflix Prize open competition for the best algorithm to predic
 We are given a set of user with their associated moives rated by them on the netflix platform.
 Develop a machine learning algorithm to predict the ratings of the movies not rated by the user so as to devise a strategy to recommend them in future to maximise the viewership of Netflix.
 
-[link](./images/netflix-q.jpg)
-
 
 ## Approaches 
 
