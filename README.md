@@ -1,7 +1,8 @@
 
+<img src='./images/netflix-q.jpg'>
+
 # Netflix Movie Recommendation 
 
-<img src='images/netflix-q.jpg'>
 
 Netflix held the Netflix Prize open competition for the best algorithm to predict user ratings for films. The grand prize was $1,000,000 and here we used multiple collaborative recommendation approaches to recommend Netflix Movie Recommendation
 
@@ -10,6 +11,7 @@ Netflix held the Netflix Prize open competition for the best algorithm to predic
 We are given a set of user with their associated moives rated by them on the netflix platform.
 Develop a machine learning algorithm to predict the ratings of the movies not rated by the user so as to devise a strategy to recommend them in future to maximise the viewership of Netflix.
 
+[link](./images/netflix-q.jpg)
 
 
 ## Approaches 
